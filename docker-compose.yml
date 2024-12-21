@@ -40,3 +40,4 @@ services:
 
 networks:
   container_network:
+    driver: bridge
